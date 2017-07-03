@@ -1,0 +1,70 @@
+
+/* --- Event View --- */
+/* Class = "UITabBarItem"; title = "Event"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Evenemang";
+
+/* Class = "UILabel"; text = "Event View"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "Evenemang";
+
+
+
+/* --- Schedule View --- */
+
+/* Class = "UITabBarItem"; title = "Schedule"; ObjectID = "mht-zn-02z"; */
+"mht-zn-02z.title" = "Spelschema";
+
+/* Class = "UILabel"; text = "Schedule View"; ObjectID = "gTK-yO-LJo"; */
+"gTK-yO-LJo.text" = "Spelschema";
+
+
+
+/* --- Map View --- */
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "jBJ-wD-rry"; */
+"jBJ-wD-rry.title" = "Karta";
+
+/* Class = "UILabel"; text = "Field"; ObjectID = "4cj-l5-Uta"; */
+"4cj-l5-Uta.text" = "Plan";
+
+/* Class = "UILabel"; text = "Food"; ObjectID = "H4Z-oR-PHx"; */
+"H4Z-oR-PHx.text" = "Mat";
+
+/* Class = "UILabel"; text = "Music"; ObjectID = "Qmw-Kb-2S9"; */
+"Qmw-Kb-2S9.text" = "Musik";
+
+
+
+/* --- Team View --- */
+
+/* Class = "UITabBarItem"; title = "Team"; ObjectID = "3Ss-0g-DTD"; */
+"3Ss-0g-DTD.title" = "Lag";
+
+/* Class = "UILabel"; text = "Team Schedule View"; ObjectID = "5Lu-zp-bFq"; */
+"5Lu-zp-bFq.text" = "Spelschema för lag";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "R3r-oA-DAl"; */
+"R3r-oA-DAl.normalTitle" = "Spara ändringar";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "WMX-4r-NHW"; */
+"WMX-4r-NHW.normalTitle" = "Redigera";
+
+/* Class = "UITextField"; text = "Team name"; ObjectID = "dVQ-wT-MSY"; */
+"dVQ-wT-MSY.text" = "Lagnamn";
+
+/* Class = "UILabel"; text = "Team image"; ObjectID = "5e8-QR-6LR"; */
+"5e8-QR-6LR.text" = "Lagbild";
+
+/* Class = "UILabel"; text = "Enter team code"; ObjectID = "iZn-nN-baQ"; */
+"iZn-nN-baQ.text" = "Ange lagkod";
+
+/* Class = "UISegmentedControl"; ld5-pm-ige.segmentTitles[0] = "Profile"; ObjectID = "ld5-pm-ige"; */
+"ld5-pm-ige.segmentTitles[0]" = "Profil";
+
+/* Class = "UISegmentedControl"; ld5-pm-ige.segmentTitles[1] = "Schedule"; ObjectID = "ld5-pm-ige"; */
+"ld5-pm-ige.segmentTitles[1]" = "Spelschema";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "lre-mH-zVN"; */
+"lre-mH-zVN.normalTitle" = "Logga in";
+
+
+

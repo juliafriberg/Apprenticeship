@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  TillsammansCup
+
+  Created by Julia Friberg on 2017-04-12.
+  Copyright © 2017 Julia Friberg. All rights reserved.
+*/
+
+
+/* --- MapViewController --- */
+"field1" = "Field 1";
+"field2" = "Field 2";
+"field3" = "Field 3";
+
+"food1" = "Food 1";
+"food2" = "Food 2";
+"food3" = "Food 3";
+
+"music1" = "Music 1";
+"music2" = "Music 2";
+
+"takepicture" = "Take a New Team Picture";
+"choosepicture" = "Select a Team Picture";
+"cancel" = "Cancel";
